@@ -1,2 +1,2 @@
 # angular
-web4jan is a different project
+web4jan ,react-delete  is a different project
