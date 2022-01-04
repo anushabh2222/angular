@@ -1,2 +1,2 @@
 # angular
-web4jan is a diffrent project
+web4jan is a different project
